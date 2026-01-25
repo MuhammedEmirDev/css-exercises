@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color: rgb(255,160,160);
+    font-family: verdana,DejaVu Sans,sans-serif;;
+}
+
+#even1{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.special_case{
+    font-size: 24px;
+}
+
+#even2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
